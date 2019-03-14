@@ -1,0 +1,49 @@
+.blog_mixup{
+  margin: 30px 0px;
+  border-bottom: none !important;
+  .postedon{
+    background:@onaccent;
+    top: 10px;
+    padding: 10px;
+    position: absolute;
+  }
+  //border-bottom: darken(@content,20%) 1px solid;
+  //height: 320px;
+  .featured-thumb{
+    border-top: none;
+    top: -30px;
+  }
+  .out-thumb{
+    @media screen and (max-width: 768px) {
+      padding: 20px;
+      right: 0px;
+    }
+    background: darken(@onaccent,20%);
+    top: 0px;
+    right: 59px;
+    bottom: 0px;
+    //position: absolute;
+  //  height: 230px;
+    .entry-header{
+      margin: 25px 20px;
+    }
+    h1 a{
+      color: @accent !important;
+      &:before{
+        display: none;
+        content: '';
+      }
+    }
+    .readmore a{
+      padding: 10px;
+      margin-top: 23px;
+      background: @accent;
+      color: @onaccent;
+      &:hover{
+        background: lighten(@background,10%);
+        color: @content;
+      }
+    }
+  }
+}
+//=============

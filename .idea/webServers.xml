@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3a26c333-057a-4eff-b447-51d8674da3a2" name="farmally" url="http://farmally.ru/">
+        <fileTransfer host="truegur3.beget.tech" port="21" rootFolder="/farmally.ru/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" accurateTimestamps="ALWAYS" shareSSLContext="true" showHiddenFiles="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

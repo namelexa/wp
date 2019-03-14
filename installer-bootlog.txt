@@ -1,0 +1,126 @@
+Mar 3 03:54:40 == DUPLICATOR PRO INSTALLER BOOTSTRAP v3.5.7.1==
+Mar 3 03:54:40 ----------------------------------------------------
+Mar 3 03:54:40 Installer bootstrap start
+Mar 3 03:54:40 Using archive /myprojects/dom.local/20190303_farmally_5a41f0e4959b9dc41659_20190303034058_archive.zip
+Mar 3 03:54:40 Going to overwrite installer directory since either in overwrite mode or installer directory doesn't exist
+Mar 3 03:54:40 Ready to extract the installer
+Mar 3 03:54:40 ZipArchive exists so using that
+Mar 3 03:54:40 Successfully opened /myprojects/dom.local/20190303_farmally_5a41f0e4959b9dc41659_20190303034058_archive.zip
+Mar 3 03:54:40 Extracting all files from archive within dpro-installer
+Mar 3 03:54:40 Success: dpro-installer/ >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/views/ >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/views/view.s1.base.movesite.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/views/view.s2.dbtest.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/views/view.s2.basic.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/views/view.s1.base.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/views/view.help.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/views/index.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/views/view.init1.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/views/view.s1.base.deletesite.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/views/view.s2.base.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/views/view.s2.cpnl.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/views/view.s4.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/views/view.api.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/views/view.s3.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/views/view.s1.terms.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/assets/ >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/assets/index.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/assets/inc.css.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/assets/inc.libs.js.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/assets/inc.libs.css.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/assets/images/ >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/assets/images/ui-bg_highlight-soft_75_cccccc_1x100.png >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/assets/images/ui-icons_2e83ff_256x240.png >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/assets/images/ui-icons_cd0a0a_256x240.png >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/assets/images/ui-icons_222222_256x240.png >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/assets/images/ui-bg_glass_95_fef1ec_1x400.png >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/assets/images/index.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/assets/images/ui-icons_454545_256x240.png >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/assets/images/ui-bg_glass_75_e6e6e6_1x400.png >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/assets/images/ui-icons_888888_256x240.png >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/assets/images/ui-bg_glass_75_dadada_1x400.png >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/assets/images/ui-bg_glass_65_ffffff_1x400.png >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/assets/images/ui-bg_glass_55_fbf9ee_1x400.png >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/assets/inc.js.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/assets/font-awesome/ >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/assets/font-awesome/index.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/assets/font-awesome/fonts/ >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/assets/font-awesome/fonts/fontawesome-webfont.woff2 >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/assets/font-awesome/fonts/fontawesome-webfont.woff >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/assets/font-awesome/fonts/index.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/assets/font-awesome/fonts/fontawesome-webfont.ttf >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/assets/font-awesome/fonts/FontAwesome.otf >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/assets/font-awesome/fonts/fontawesome-webfont.eot >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/assets/font-awesome/css/ >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/assets/font-awesome/css/font-awesome.min.css >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/assets/font-awesome/css/index.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/archive.cfg >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/main.installer.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/classes/ >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/classes/utilities/ >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/classes/utilities/class.u.multisite.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/classes/utilities/index.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/classes/utilities/class.u.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/classes/class.engine.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/classes/class.server.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/classes/class.crypt.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/classes/class.db.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/classes/index.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/classes/class.installer.state.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/classes/class.logging.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/classes/class.http.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/classes/config/ >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/classes/config/class.archive.config.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/classes/config/index.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/classes/config/class.conf.srv.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/classes/config/class.conf.wp.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/classes/config/class.constants.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/index.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/api/ >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/api/class.api.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/api/class.cpnl.base.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/api/index.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/api/router.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/api/class.cpnl.ctrl.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/ctrls/ >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/ctrls/ctrl.s2.dbinstall.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/ctrls/ctrl.s2.dbtest.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/ctrls/ctrl.s2.base.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/ctrls/index.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/ctrls/ctrl.base.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/ctrls/ctrl.s1.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/ctrls/ctrl.s3.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/lib/ >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/lib/fileops/ >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/lib/fileops/class.fileops.u.delete.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/lib/fileops/index.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/lib/fileops/fileops.ppp >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/lib/fileops/class.fileops.u.move.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/lib/fileops/class.fileops.state.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/lib/fileops/class.fileops.constants.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/lib/snaplib/ >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/lib/snaplib/class.snaplib.u.io.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/lib/snaplib/class.snaplib.u.os.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/lib/snaplib/class.snaplib.u.ui.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/lib/snaplib/class.snaplib.u.util.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/lib/snaplib/index.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/lib/snaplib/snaplib.all.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/lib/snaplib/class.snaplib.logger.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/lib/snaplib/class.snaplib.u.net.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/lib/snaplib/class.snaplib.u.stream.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/lib/snaplib/class.snaplib.u.string.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Success: dpro-installer/main.download.php >>> /myprojects/dom.local
+Mar 3 03:54:40 Successfully closed /myprojects/dom.local/20190303_farmally_5a41f0e4959b9dc41659_20190303034058_archive.zip
+Mar 3 03:54:40 Successfully extracted with ZipArchive
+Mar 3 03:54:40 Set permissions of /myprojects/dom.local/dpro-installer to 755<br/>
+Mar 3 03:54:40 Set permissions of /myprojects/dom.local/dpro-installer/api to 755<br/>
+Mar 3 03:54:40 Set permissions of /myprojects/dom.local/dpro-installer/assets to 755<br/>
+Mar 3 03:54:40 Set permissions of /myprojects/dom.local/dpro-installer/classes to 755<br/>
+Mar 3 03:54:40 Set permissions of /myprojects/dom.local/dpro-installer/ctrls to 755<br/>
+Mar 3 03:54:40 Set permissions of /myprojects/dom.local/dpro-installer/lib to 755<br/>
+Mar 3 03:54:40 Set permissions of /myprojects/dom.local/dpro-installer/views to 755<br/>
+Mar 3 03:54:40 Set permissions of /myprojects/dom.local/dpro-installer/archive.cfg to 664<br/>
+Mar 3 03:54:40 Set permissions of /myprojects/dom.local/dpro-installer/index.php to 664<br/>
+Mar 3 03:54:40 Set permissions of /myprojects/dom.local/dpro-installer/main.download.php to 664<br/>
+Mar 3 03:54:40 Set permissions of /myprojects/dom.local/dpro-installer/main.installer.php to 664<br/>
+Mar 3 03:54:40 No detected errors so redirecting to the main installer. Main Installer URI = http://dom.local:80/dpro-installer/main.installer.php?archive=%2Fmyprojects%2Fdom.local%2F20190303_farmally_5a41f0e4959b9dc41659_20190303034058_archive.zip&bootloader=installer.php&

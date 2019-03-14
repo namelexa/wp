@@ -1,0 +1,47 @@
+.edd_download_columns_3 {
+    .edd_download {
+        @include span_columns(4);
+         @include omega(3n);
+      }
+}
+//download button
+.edd-submit,
+#edd-purchase-button,
+input[type="submit"].edd-submit {
+            @extend button;
+            background: $color__background-button;
+            border-color: $color__border-button;
+            color:#fff;
+            &:hover,
+            &:focus {
+            }
+        }
+//checkout 
+.edd-checkout {
+    .entry-header {
+        display: none;
+    }
+    #edd_checkout_cart {
+        @extend table;
+    }
+}
+.widget_edd_cart_widget {
+    .edd_checkout {
+        border-left: 4px solid $color__gray;
+        margin-top: $small__spacing/2;
+        padding-left: $small__spacing/2;
+    }
+    .edd-cart-number-of-items {
+        border-left: 4px solid $color__gray;
+        margin-top: $small__spacing/2;
+        padding-left: $small__spacing/2;
+    }
+}
+@include media(max-width 600px) { 
+    .edd_download_columns_3 {
+        .edd_download {
+            width: 100%!important;
+        }
+        
+    }
+}
